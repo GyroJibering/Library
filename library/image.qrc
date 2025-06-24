@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>pic/bk2.png</file>
+        <file>pic/logo.png</file>
+        <file>pic/password.png</file>
+        <file>pic/user.png</file>
+        <file>pic/bk1.png</file>
+        <file>pic/bk1.jpg</file>
+        <file>pic/bk3.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>pic/logo.png</file>
+        <file>../../Desktop/me.png</file>
+    </qresource>
+</RCC>
